@@ -27,6 +27,10 @@ audio line in, audio line out en phono in.
 
 # Websites met reviews
 
+
+* [https://www.musicradar.com/](https://www.musicradar.com/)
+    + [https://www.musicradar.com/news/the-best-studio-monitors-and-monitor-speakers](https://www.musicradar.com/news/the-best-studio-monitors-and-monitor-speakers)
+        Een bespreking van studioluidsprekers, met o.a. Genelec
 * [https://hifi.be/](https://hifi.be/)
 * [https://www.alpha-audio.nl/review/](https://www.alpha-audio.nl/review/)
 * [https://hifipig.com/category/hifi-reviews/](https://hifipig.com/category/hifi-reviews/)
