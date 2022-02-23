@@ -10,7 +10,7 @@ Wordt ook tulp- of cinchstekker genoemd.
 Dit zie je aan de achterzijde van een klassieke versterker voor
 audio line in, audio line out en phono in.
 
-![Tulppluggen.jpg](Tulppluggen.jpg)
+![pictires/Tulppluggen.jpg](pictures/Tulppluggen.jpg)
 
 ## Ethernet
 
