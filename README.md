@@ -1,3 +1,24 @@
+# Hifi oplossingen
+
+## Klassieke radiovesterker
+
+# Begrippen
+
+## RCA stekker
+
+Wordt ook tulp- of cinchstekker genoemd.
+Dit zie je aan de achterzijde van een klassieke versterker voor
+audio line in, audio line out en phono in.
+
+![Tulppluggen.jpg](Tulppluggen.jpg)
+
+## Ethernet
+
+## Bluetooth
+
+ 
+
+
 # Winkels
 
 * [https://tebahifi.be/](https://tebahifi.be/)
